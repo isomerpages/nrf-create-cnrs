@@ -15,8 +15,7 @@ With four International Research Laboratories located in Singapore, the CNRS ben
 
 Designed as a program operator to build and to conduct large transdisciplinary research programs, CNRS@CREATE Ltd is therefore integrated into CREATE. The latter develops international research collaborations through massive funding of major programs carried out between internationally renowned university partners. " CNRS is the first research organisation to be part of CREATE, and we look forward to a fruitful collaboration", says Jean-Yves Marzin, director of the CNRS Institute of Engineering Sciences and Systems (INSIS), and in charge for the CNRS of the CNRS@CREATE program.
 
- ![Inauguration of CNRS@CREATE](https://www.create.edu.sg/images/default-source/cnrs@create/inauguration-of-cnrs@create.tmb-medium.jpg?sfvrsn=103917_1 "Inauguration of CNRS@CREATE")
-
+![](/images/inauguration-of-cnrs2@create.jpg)
 _Inauguration of CNRS@CREATE_
 
 Our objective is to build CNRS@CREATE as a trans-continental hub for research with unique opportunities for high quality faculty, researchers and postgraduate/postdoctoral students. "CNRS@CREATE Ltd also represents an additional tool for the CNRS in its transfer policy, while CREATE promotes the development of research programs that generate value through intellectual property and the creation of start-ups, a technology transfer that can be supported by French industrials, which are widely present in Singapore", comments the subsidiary's director.
@@ -60,7 +59,7 @@ The objective is to initiate new collaborations between 2 early career\* CREATE
 
 CNRS@CREATE investigators are eligible to other NRF or Singaporean calls
 
-![Tomorrows worlds pv](https://www.create.edu.sg/images/default-source/cnrs@create/tomorrows-worlds-pv.tmb-medium.png?sfvrsn=4fd3348b_1 "Tomorrows worlds pv") 
+![](/images/3cnstomorrows-worlds-pv.png)
 
 **How to apply ?**
 
