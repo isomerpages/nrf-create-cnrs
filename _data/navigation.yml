@@ -1,8 +1,8 @@
 logo: /images/logo.png
 links:
+  - title: CNRS@CREATE
+    collection: cnrs-create
   - title: Contact Us
     url: /contact-us/
   - title: Example Page
     url: /example-page/
-  - title: CNRS@CREATE
-    collection: cnrs-create
