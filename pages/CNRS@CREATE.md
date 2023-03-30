@@ -3,10 +3,6 @@ title: CNRS@CREATE
 permalink: /about-create/research-centres/cnrscreate/
 description: ""
 ---
-
-
-
-
 ![](/images/cnrs1-create.png)
 
 # About CNRS@CREATE
@@ -76,7 +72,7 @@ For more details and application, please contact : [cnrsatcreate@cnrs.fr](mailt
 
 **Contact Us**  
 CNRS website:  
-[http://www.cnrs.fr/en/](http://asean.cnrs.fr/?lang=fr)
+[http://www.cnrs.fr/en/](http://asean.cnrs.fr/?lang=fr](http://www.cnrs.fr/en/](http://asean.cnrs.fr/?lang=fr)
 
 
 
