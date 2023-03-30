@@ -2,4 +2,4 @@ collections:
   cnrs-create:
     output: true
     order:
-      - About CNRS@CREATE.md
+      - CNRS@CREATE.md
