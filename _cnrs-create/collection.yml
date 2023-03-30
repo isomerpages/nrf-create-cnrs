@@ -1,5 +1,4 @@
 collections:
   cnrs-create:
     output: true
-    order:
-      - CNRS@CREATE.md
+    order: []
