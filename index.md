@@ -8,6 +8,12 @@ notification: ""
 sections:
   - hero:
       title: CNRS @ CREATE
-      subtitle: Hero subtitle
-      background: /images/hero-banner.png
+      background: /images/cnrs1-create.png
+      key_highlights:
+        - title: Click here for CREATE Home Page
+          description: ""
+          url: https://staging.d1q14glctguzyi.amplifyapp.com/
+        - title: About CNRS@CREATE
+          description: ""
+          url: /about-create/research-centres/cnrscreate/
 ---
