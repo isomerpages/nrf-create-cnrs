@@ -3,8 +3,7 @@ title: CNRS@CREATE
 permalink: /about-create/research-centres/cnrscreate/
 description: ""
 ---
-![](/images/cnrs1-create.png)
-
+![](/images/cnrs%20create.png)
 # About CNRS@CREATE
 
 [**Singapore: the CNRS opens CNRS@CREATE, its first overseas subsidiary**](http://www.cnrs.fr/en/singapore-cnrs-opens-cnrscreate-its-first-overseas-subsidiary)
