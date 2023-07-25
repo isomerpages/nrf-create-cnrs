@@ -17,6 +17,22 @@ The French National Centre for Scientific Research (CNRS) strengthened its prese
 ![](/images/inauguration%20of%20cnrs@create%20credits%20cnrs@create.jpg)
 _Inauguration of CNRS@CREATE in 2019 (from left to right: Professor Low Teck Seng, NRF CEO ; Mr Marc Abensour, Ambassador of France to Singapore ; Professor Antoine Petit, CNRS CEO). Credits CNRS@CREATE_
 
+
+
+**CNRS@CREATE goals:**
+
+*   to strengthen France and Singapore’s global position in the areas of research of the highest potential for present and future society.
+*   to create unique initiatives in transdisciplinary research of excellence and technology development which would not exist under normal circumstances or within a single country or institution.
+
+*   to support translational research and innovation for promoting exploitation of research results. Direct industry participation in research projects is encouraged to ensure efficient transformation of research results into innovative products
+
+
+
+
+
+
+========
+
 Our objective is to build CNRS@CREATE as a trans-continental hub for research with unique opportunities for high quality faculty, researchers and postgraduate/postdoctoral students. "CNRS@CREATE Ltd also represents an additional tool for the CNRS in its transfer policy, while CREATE promotes the development of research programs that generate value through intellectual property and the creation of start-ups, a technology transfer that can be supported by French industrials, which are widely present in Singapore", comments the subsidiary's director.
 
 CNRS@CREATE will serve the following purposes:
