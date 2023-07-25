@@ -19,7 +19,7 @@ _Inauguration of CNRS@CREATE in 2019 (from left to right: Professor Low Teck Sen
 
 
 
-**CNRS@CREATE goals:**
+**CNRS@CREATE GOALS:**
 
 *   to strengthen France and Singapore’s global position in the areas of research of the highest potential for present and future society.
 *   to create unique initiatives in transdisciplinary research of excellence and technology development which would not exist under normal circumstances or within a single country or institution.
@@ -33,7 +33,7 @@ _Inauguration of CNRS@CREATE in 2019 (from left to right: Professor Low Teck Sen
 _The CNRS team in Singapore. Credits: CNRS@CREATE._
 
 
-**Interdisciplinary programs**
+***Interdisciplinary programs***
 
 **DesCartes Program**
 
@@ -62,8 +62,9 @@ Industry: _ARIA, CETIM, EDF Lab Singapore, ESI Group and Thales & Thales Solutio
 
 Learn more about DesCartes program here: [_https://descartes.cnrsatcreate.cnrs.fr/_](https://descartes.cnrsatcreate.cnrs.fr/)
 
-**Intra-Create Projects**  
-**EcoCTs** 
+***Intra-Create Projects***
+
+**EcoCTs**  
 Engineering biology for a circular bioeconomy – Towards urban sustainability.
 
 Partners: _CNRS, NUS and ASTAR. The duration of the project is 3 years, and it started in october 2020._
@@ -73,7 +74,7 @@ Learn more about EcoCTs here:[_https://www.cnrsatcreate.cnrs.fr/ecocts/_](https:
 ![](/images/the%20ecocts%20team%20in%20singapore%20credits%20cnrs@create.jpg)
 _The EcoCTs team in Singapore. Credits: CNRS@CREATE_
 
-**CALIPSO** 
+**CALIPSO**  
 Computer Assisted Live Imaging for Predictive Screening of Organoids.
 
 Partners: _CNRS, NUS and NTU. The duration of the project is 3 years, and it started in october 2020._
@@ -83,7 +84,7 @@ Learn more about CALIPSO here: [_https://www.cnrsatcreate.cnrs.fr/calipso/_](htt
 ![](/images/the%20calipso%20team%20in%20singapore,%20with%20their%20sospim%20microscope%20credits%20cnrs@create.jpg)
 _The CALIPSO team in Singapore, with their soSPIM microscope. Credits: CNRS@CREATE_
 
-**ScaNCellS** 
+**ScaNCellS**  
 Engineering Scaffold-Mediated Neural Cell Therapy for Spinal Cord Injury Treatment._
 
 Partners: _NTU and CNRS. The duration of the project is 3 years, and it started in october 2020._
@@ -93,7 +94,7 @@ Learn more about ScanNCellS here: [_https://www.cnrsatcreate.cnrs.fr/scancells/_
 ![](/images/the%20scancells%20team%20in%20singapore%20credits%20cnrs@create.jpg)
 _The ScaNCellS team in Singapore. Credits CNRS@CREATE_
 
-**SPACE**\
+**SPACE**  
 Shaping Public Adaptive Capacity For Environmental Infectious Diseases.
 
 The partners are CNRS, NTU, NUS, SMU, SUSS and SUTD. The duration of the project is 3 years, and it started in April 2022.
@@ -104,7 +105,7 @@ Learn more about SPACE here: [](https://www.cnrsatcreate.cnrs.fr/scancells/) [_
 _The SPACE team in Singapore. Credits CNRS@CREATE_
 
 
-**Seed-Funding Projects**  
+***Seed-Funding Projects***  
 
 **BUBBLE**  
 Orchestrating Chemistry in a Bubble to Upcycle Food Waste into Specialty Chemicals
@@ -116,7 +117,7 @@ Intelligent Multi-Energy Communities for enhanced distributed resources Integrat
 
 Learn more about Int2MEC here: [_https://www.cnrsatcreate.cnrs.fr/int2mec/_](https://www.cnrsatcreate.cnrs.fr/int2mec/)
 
-**Other Projects**  
+***Other Projects***  
 
 **FCP-NEWBORN**  
 Advanced Technology for Sub-THz Waveguides Based on Carbon Nanotubes
