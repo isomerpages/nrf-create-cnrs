@@ -104,78 +104,44 @@ Learn more about SPACE here: [](https://www.cnrsatcreate.cnrs.fr/scancells/) [_
 _The SPACE team in Singapore. Credits CNRS@CREATE_
 
 
-
-
-
-
-========
-
-Our objective is to build CNRS@CREATE as a trans-continental hub for research with unique opportunities for high quality faculty, researchers and postgraduate/postdoctoral students. "CNRS@CREATE Ltd also represents an additional tool for the CNRS in its transfer policy, while CREATE promotes the development of research programs that generate value through intellectual property and the creation of start-ups, a technology transfer that can be supported by French industrials, which are widely present in Singapore", comments the subsidiary's director.
-
-CNRS@CREATE will serve the following purposes:
-
-*   to strengthen France and Singapore's global position in the areas of research of the highest potential for present and future society.
-*   to create unique initiatives in transdisciplinary research of excellence and technology development which would not exist under normal circumstances or within a single country or institution.
-*   to support translational research and innovation for promoting exploitation of research results. Direct industry participation in research projects is encouraged to ensure efficient transformation of research results into innovative products
-
-As an interdisciplinary, agile and responsive system, this first CNRS subsidiary is at the heart of CNRS's new international strategy. This promising model could give the organization new ambitions. For Patrick Nédellec, "CNRS@CREATE Ltd allows us to develop new know-how. I see it as a pilot operation that can be transferred to other countries ready to invest massively, such as Singapore”.
-
-**What type of research funding?**
-
-**Interdisciplinary programs**  
-_5 years_  
-_Principal Investigators : 1 year in Singapore_
-
-_Key assessment criteria_  
-Scientific excellence – Technological novelty (main criteria)  
-Excellence of the research team  
-Disruptive and Transdisciplinary programs  
-High potential impact for Singapore - Opportunities to address global challenges  
-Strong support from local agencies  
-In accordance with RIE 2025 Singapore  
-In accordance with the CNRS strategy
-
-**Intra-Create Projects**  
-_3 years  
-Thematic calls: 1 - 2 / year  
-Principal Investigators : 7 months in Singapore_
-
-This initiative seeks to foster the formation of multi-disciplinary teams across 2+ research programmes/institutions of CREATE to achieve greater impact through synergistic research efforts on topics of relevance to Singapore.
-
 **Seed-Funding Projects**  
-_18 months  
-White calls: 1 - 2 / year  
-Principal Investigators: a minimum of 25% of their time to the Intra-CREATE Seed project_  
-The objective is to initiate new collaborations between 2 early career\* CREATE investigators  
-\*Less than 8 years of experience since their PhD
 
-CNRS@CREATE investigators are eligible to other NRF or Singaporean calls
+**BUBBLE**  
+Orchestrating Chemistry in a Bubble to Upcycle Food Waste into Specialty Chemicals
 
-![](/images/3cnstomorrows-worlds-pv.png)
+Learn more about BUBBLE here: [https://www.cnrsatcreate.cnrs.fr/bubble/](https://www.cnrsatcreate.cnrs.fr/bubble/)
 
-**How to apply ?**
+**_Int2MEC_**  
+Intelligent Multi-Energy Communities for enhanced distributed resources Integration in Singapore
 
-For more details and application, please contact : [cnrsatcreate@cnrs.fr](mailto:cnrsatcreate@cnrs.fr)
+Learn more about Int2MEC here: [_https://www.cnrsatcreate.cnrs.fr/int2mec/_](https://www.cnrsatcreate.cnrs.fr/int2mec/)
+
+**Other Projects**  
+
+**FCP-NEWBORN**  
+Advanced Technology for Sub-THz Waveguides Based on Carbon Nanotubes
+
+Partners: CNRS and NTU.
+
+_Learn more about this project here:_ [_https://www.cnrsatcreate.cnrs.fr/fcp-project/_](https://www.cnrsatcreate.cnrs.fr/fcp-project/)
+
+
+***CNRS@CREATE investigators are eligible to other NRF or Singaporean calls***
+
+**How to apply?**
+
+For more details and application, please contact us.
+
+**Contact Us**  
+
+[CNRS@CREATE website](http://cnrsatcreate.cnrs.fr/)
 
 [CNRS website](http://www.cnrs.fr/en/)
 
-
-
-
-**Contact Us**  
-CNRS website:  
-[http://www.cnrs.fr/en/](http://asean.cnrs.fr/?lang=fr](http://www.cnrs.fr/en/](http://asean.cnrs.fr/?lang=fr)
-
-
-
-CNRS@CREATE website:
-
-[cnrsatcreate.cnrs.fr](http://cnrsatcreate.cnrs.fr/)
-
 Email:  
-[cnrsatcreate@cnrs.fr](mailto:derci.singapore@cnrs.fr)
+[cnrsatcreate@cnrs.fr](mailto:cnrsatcreate@cnrs.fr) 
 
 **Where to Find Us**  
-1 Create Way, #15-01  
+1 Create Way, #08-01/02  
 Create Tower  
 Singapore 138602
