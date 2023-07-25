@@ -32,6 +32,13 @@ _Inauguration of CNRS@CREATE in 2019 (from left to right: Professor Low Teck Sen
 ![The CNRS team in Singapore. Credits: CNRS@CREATE](/images/the%20cnrs%20team%20in%20singapore%20credits%20cnrs@create.jpg)
 _The CNRS team in Singapore. Credits: CNRS@CREATE._
 
+
+**Interdisciplinary programs**
+
+
+
+
+
 ========
 
 Our objective is to build CNRS@CREATE as a trans-continental hub for research with unique opportunities for high quality faculty, researchers and postgraduate/postdoctoral students. "CNRS@CREATE Ltd also represents an additional tool for the CNRS in its transfer policy, while CREATE promotes the development of research programs that generate value through intellectual property and the creation of start-ups, a technology transfer that can be supported by French industrials, which are widely present in Singapore", comments the subsidiary's director.
