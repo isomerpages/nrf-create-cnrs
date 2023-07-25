@@ -63,7 +63,8 @@ Industry: _ARIA, CETIM, EDF Lab Singapore, ESI Group and Thales & Thales Solutio
 Learn more about DesCartes program here: [_https://descartes.cnrsatcreate.cnrs.fr/_](https://descartes.cnrsatcreate.cnrs.fr/)
 
 **Intra-Create Projects**  
-**EcoCTs:** Engineering biology for a circular bioeconomy – Towards urban sustainability.
+**EcoCTs** 
+Engineering biology for a circular bioeconomy – Towards urban sustainability.
 
 Partners: _CNRS, NUS and ASTAR. The duration of the project is 3 years, and it started in october 2020._
 
@@ -72,9 +73,8 @@ Learn more about EcoCTs here:[_https://www.cnrsatcreate.cnrs.fr/ecocts/_](https:
 ![](/images/the%20ecocts%20team%20in%20singapore%20credits%20cnrs@create.jpg)
 _The EcoCTs team in Singapore. Credits: CNRS@CREATE_
 
-**CALIPSO**
-
-CALIPSO: Computer Assisted Live Imaging for Predictive Screening of Organoids.
+**CALIPSO** 
+Computer Assisted Live Imaging for Predictive Screening of Organoids.
 
 Partners: _CNRS, NUS and NTU. The duration of the project is 3 years, and it started in october 2020._
 
@@ -82,6 +82,28 @@ Learn more about CALIPSO here: [_https://www.cnrsatcreate.cnrs.fr/calipso/_](htt
 
 ![](/images/the%20calipso%20team%20in%20singapore,%20with%20their%20sospim%20microscope%20credits%20cnrs@create.jpg)
 _The CALIPSO team in Singapore, with their soSPIM microscope. Credits: CNRS@CREATE_
+
+**ScaNCellS** 
+Engineering Scaffold-Mediated Neural Cell Therapy for Spinal Cord Injury Treatment._
+
+Partners: _NTU and CNRS. The duration of the project is 3 years, and it started in october 2020._
+
+Learn more about ScanNCellS here: [_https://www.cnrsatcreate.cnrs.fr/scancells/_](https://www.cnrsatcreate.cnrs.fr/scancells/)
+
+![](/images/the%20scancells%20team%20in%20singapore%20credits%20cnrs@create.jpg)
+_The ScaNCellS team in Singapore. Credits CNRS@CREATE_
+
+**SPACE**\
+Shaping Public Adaptive Capacity For Environmental Infectious Diseases.
+
+The partners are CNRS, NTU, NUS, SMU, SUSS and SUTD. The duration of the project is 3 years, and it started in April 2022.
+
+Learn more about SPACE here: [](https://www.cnrsatcreate.cnrs.fr/scancells/) [_https://space.cnrsatcreate.cnrs.fr/_](https://space.cnrsatcreate.cnrs.fr/)
+
+![](/images/the%20space%20team%20in%20singapore%20credits%20cnrs@create.jpg)
+_The SPACE team in Singapore. Credits CNRS@CREATE_
+
+
 
 
 
