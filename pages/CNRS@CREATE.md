@@ -29,8 +29,8 @@ _Inauguration of CNRS@CREATE in 2019 (from left to right: Professor Low Teck Sen
 
 **CNRS@CREATE PROGRAMS AND PROJECTS**
 
-
-
+![The CNRS team in Singapore. Credits: CNRS@CREATE](/images/the%20cnrs%20team%20in%20singapore%20credits%20cnrs@create.jpg)
+_The CNRS team in Singapore. Credits: CNRS@CREATE._
 
 ========
 
