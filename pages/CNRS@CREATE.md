@@ -62,7 +62,15 @@ Industry: _ARIA, CETIM, EDF Lab Singapore, ESI Group and Thales & Thales Solutio
 
 Learn more about DesCartes program here: [_https://descartes.cnrsatcreate.cnrs.fr/_](https://descartes.cnrsatcreate.cnrs.fr/)
 
+**Intra-Create Projects**  
+**EcoCTs:** Engineering biology for a circular bioeconomy – Towards urban sustainability.
 
+Partners: _CNRS, NUS and ASTAR. The duration of the project is 3 years, and it started in october 2020._
+
+Learn more about EcoCTs here:[_https://www.cnrsatcreate.cnrs.fr/ecocts/_](https://www.cnrsatcreate.cnrs.fr/ecocts/)
+
+![](/images/the%20ecocts%20team%20in%20singapore%20credits%20cnrs@create.jpg)
+_The EcoCTs team in Singapore. Credits: CNRS@CREATE_
 
 
 
