@@ -27,6 +27,7 @@ _Inauguration of CNRS@CREATE in 2019 (from left to right: Professor Low Teck Sen
 *   to support translational research and innovation for promoting exploitation of research results. Direct industry participation in research projects is encouraged to ensure efficient transformation of research results into innovative products
 
 
+**CNRS@CREATE PROGRAMS AND PROJECTS**
 
 
 
