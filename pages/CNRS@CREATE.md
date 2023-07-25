@@ -72,9 +72,16 @@ Learn more about EcoCTs here:[_https://www.cnrsatcreate.cnrs.fr/ecocts/_](https:
 ![](/images/the%20ecocts%20team%20in%20singapore%20credits%20cnrs@create.jpg)
 _The EcoCTs team in Singapore. Credits: CNRS@CREATE_
 
+**CALIPSO**
 
+CALIPSO: Computer Assisted Live Imaging for Predictive Screening of Organoids.
 
+Partners: _CNRS, NUS and NTU. The duration of the project is 3 years, and it started in october 2020._
 
+Learn more about CALIPSO here: [_https://www.cnrsatcreate.cnrs.fr/calipso/_](https://www.cnrsatcreate.cnrs.fr/calipso/)
+
+![](/images/the%20calipso%20team%20in%20singapore,%20with%20their%20sospim%20microscope%20credits%20cnrs@create.jpg)
+_The CALIPSO team in Singapore, with their soSPIM microscope. Credits: CNRS@CREATE_
 
 
 
