@@ -35,7 +35,32 @@ _The CNRS team in Singapore. Credits: CNRS@CREATE._
 
 **Interdisciplinary programs**
 
+**DesCartes Program**
 
+![](/images/the%20descartes%20team%20in%20singapore%20credits%20cnrs@create.jpg)
+_The DesCartes team in Singapore. Credits: CNRS@CREATE_
+
+DesCartes Program aims to develop disruptive hybrid AI to serve the smart city and to enable optimized decision-making in complex situations, encountered for critical urban systems.
+
+The program is composed of 10 work packages, allocated to three pillars:
+
+* A first pillar revolving around “Intelligent Computing”. Its aim is to develop computer science tools to manage smart data and produce certified and explainable hybrid twins and controllers, based on physical / knowledge-aware models.
+
+* A second pillar focused on “empowering people in Smart societies”, which studies the collaborative process of decision making between human operators and the Hybrid AI; develops natural language front-ends for more natural operators-HAI interaction; develops ethical guidelines for policymakers and HAI designers; develops a minimal set of guidelines for the legal regulation of and policy development for implementing Hybrid AI; studies the overall integration and co-development processes of DesCartes.
+
+* A third pillar dedicated to engineering and builders which brings the engineering, technological, and application dimensions to the concept of HAI. It aims at proposing operational methodology and architecture, from smart sensing and predictive diagnostics to robust and scalable control, for critical and complex system-of-systems.
+
+Program director: Professor Francisco Chinesta.
+
+Partners:
+
+From Singapore: _NTU, NUS, Singapore University of Technology and Design, Singapore University of Social Sciences;_
+
+From France: _Université Paris-Saclay, École Normale Supérieure-Paris-Saclay, Université Toulouse III - Paul Sabatier, Université Lyon III - Jean Moulin, Université Côte d’Azur, Université de Bordeaux, École Nationale de l’Aviation Civile, Paris Sciences & Lettres, Université de Strasbourg, Arts et Métiers, Université Grenoble Alpes, INP Grenoble and INP ENSEEIHT ;_
+
+Industry: _ARIA, CETIM, EDF Lab Singapore, ESI Group and Thales & Thales Solution Asia._
+
+Learn more about DesCartes program here: [_https://descartes.cnrsatcreate.cnrs.fr/_](https://descartes.cnrsatcreate.cnrs.fr/)
 
 
 
