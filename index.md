@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: CNRS @ CREATE
-      background: /images/cnrs1-create.png
+      background: /images/cnrs@create long.png
       key_highlights:
         - title: Click here for CREATE Home Page
           description: ""
